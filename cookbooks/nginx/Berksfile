@@ -1,0 +1,8 @@
+# frozen_string_literal: true
+# source 'https://supermarket.chef.io'
+# metadata
+
+site :opscode
+
+cookbook "yum-epel"
+cookbook "nginx", path: "./site-cookbooks/nginx"
