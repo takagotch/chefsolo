@@ -1,4 +1,6 @@
 https://docs.chef.io/ctl_chef_solo.html
+
+https://github.com/chef
 ---
 #chefsolo
 
