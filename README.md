@@ -21,17 +21,17 @@ chef generate attribute /home/vagrant/shared/ruby-env default
 chef generate template /home/vagrant/shared/ruby-env .bash_profile.erb
 
 
+```
+
+```
 
 
+```
+```
 
 
-
-
-
-
-
-
-
+```
+```
 
 
 
